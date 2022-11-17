@@ -21,3 +21,7 @@ body {
     justify-content: center;
     margin: 10px;
 }
+.article {
+    width: 370px;
+    background-color: beige;
+}
