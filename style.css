@@ -25,3 +25,7 @@ body {
     width: 370px;
     background-color: beige;
 }
+.button {
+    width: 40px;
+    height: 15px;
+}
